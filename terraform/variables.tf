@@ -15,7 +15,7 @@ variable "instance_type" {
 
 variable "region" {
   description = "The region"
-  default     = "us-east-1a"
+  default     = "us-east-2"
 }
 
 variable "github_username" {
